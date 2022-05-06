@@ -1,0 +1,21 @@
+#input{
+    display: flexbox;
+}
+#sample{
+    margin: 10px 5px;
+}
+.additem{
+    display: block;
+    float: right;
+    margin: 10px 5px;
+}
+.items{
+    
+    margin: 10px 0;
+}
+.list li{
+    margin: 140px;
+    display: block;
+    color: black;
+    background-color: red;
+}
